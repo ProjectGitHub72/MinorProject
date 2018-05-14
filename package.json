@@ -2,6 +2,7 @@
   "name": "project",
   "version": "0.1.0",
   "private": true,
+  "main" :"./src/Electron/electron-main.js",
   "dependencies": {
     "electron": "^2.0.0",
     "react": "^16.3.2",
