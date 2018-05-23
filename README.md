@@ -1,5 +1,5 @@
 
-# Necessary Information [Hello]
+# Necessary Information []
 
 ## NOTE:
     ~ If you don't have nodeJS/npm installed in your computer, visit https://nodejs.org/en/
